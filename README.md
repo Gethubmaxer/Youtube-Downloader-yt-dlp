@@ -1,4 +1,4 @@
-i take no credit for yt-dlp.exe, ffprobe.exe, and ffmpeg.exe. credit goes to the makers of each of the makers
+i take no credit for yt-dlp.exe, ffprobe.exe, and ffmpeg.exe. credit goes to the makers of each of the files
 
 1.) Download the "youtube-downloader-windows.zip" file from release tab to a place of your choice (downloads recomended)
 
